@@ -1,6 +1,6 @@
 # Hi, I'm Ryan 👋
 
-I'm a senior technical architect at the [Ministry of Justice](https://github.com/ministryofjustice), where among other things I help build the [Prisoner Content Hub](https://github.com/ministryofjustice/prisoner-content-hub). 
+I'm a lead technical architect at the [Government Digital Service](https://github.com/alphagov).
 
 At work I'm an advocate for boring tech and making life simple, safe, and predictable for ourselves.
 
